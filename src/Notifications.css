@@ -1,0 +1,22 @@
+  ul{
+      padding: 0;
+  }
+  ul li{
+      border-top: 1px solid #b0b0b0;
+      padding: 0.3rem; 
+      list-style-type: none;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+  }
+
+  ul li img{
+    height: 38px !important;
+    width: 38px  !important;
+    border-radius: 50%  !important;
+  }
+  ul li span {
+      margin-left: auto;
+      font-size: 1.5rem;
+  }
