@@ -65,7 +65,7 @@ function App() {
           item
           sm={12}
           lg={4}
-          sx={{
+          style={{
             alignItems: "center",
             justifyContent: "center",
             display: "flex",
@@ -92,7 +92,7 @@ function App() {
             ) : null}
           </Stack>
         </Grid>
-        <Grid item sm={0} lg={4}></Grid>
+    
       </Grid>
     </>
   );
